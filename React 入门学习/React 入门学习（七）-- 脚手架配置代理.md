@@ -1,14 +1,4 @@
-# React 入门学习（七）-- 脚手架配置代理
-
-![React - 代理](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/React%20-%20%E4%BB%A3%E7%90%86.gif)
-
-> 📢 大家好，我是小丞同学，一名<font color=#2e86de>**准大二的前端爱好者**</font>
->
-> 📢 这篇文章是学习 React 中**脚手架配置代理**的学习笔记
->
-> 📢 非常感谢你的阅读，不对的地方欢迎指正 🙏
->
-> 📢 <font color=#f368e0>**愿你忠于自己，热爱生活**</font>
+#  脚手架配置代理
 
 # 引言
 

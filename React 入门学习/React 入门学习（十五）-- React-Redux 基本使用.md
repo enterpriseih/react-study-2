@@ -1,14 +1,4 @@
-#  React 入门学习（十五）-- React-Redux 基本使用
-
-![react-redux](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/react-redux.gif)
-
-> 📢 大家好，我是小丞同学，一名<font color=#2e86de>**大二的前端爱好者**</font>
->
-> 📢 这篇文章是学习 React-Redux 的学习笔记
->
-> 📢 非常感谢你的阅读，不对的地方欢迎指正 🙏
->
-> 📢 <font color=#f368e0>**愿你忠于自己，热爱生活**</font>
+# React-Redux 基本使用
 
 ## 引言
 

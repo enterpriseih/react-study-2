@@ -1,6 +1,4 @@
-# React核心 -- React-Hooks
-
-![hooks](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/hooks.gif)
+# React-Hooks
 
 ## hooks 存在的意义
 

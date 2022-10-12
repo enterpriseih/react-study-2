@@ -1,20 +1,10 @@
-#  React 入门学习（十六）-- 数据共享
-
-![数据共享](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/%E6%95%B0%E6%8D%AE%E5%85%B1%E4%BA%AB.gif)
-
-> 📢 大家好，我是小丞同学，一名<font color=#2e86de>**大二的前端爱好者**</font>
->
-> 📢 这篇文章是学习 React-Redux 数据共享 的学习笔记
->
-> 📢 非常感谢你的阅读，不对的地方欢迎指正 🙏
->
-> 📢 <font color=#f368e0>**愿你忠于自己，热爱生活**</font>
+# 数据共享
 
 ## 引言
 
 在写完了基本的 Redux 案例之后，我们可以尝试一些更实战性的操作，比如我们可以试试多组件间的状态传递，相互之间的交互
 
-![react-redux-demo](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/react-redux-demo.gif)
+![](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/react-redux-demo.gif)
 
 如上动图所示，我们想要实现上面的案例，采用纯 React 来实现是比较困难的，我们需要**很多层的数据交换**才能实现，但是我们如果采用 Redux 来实现会变得非常简单
 

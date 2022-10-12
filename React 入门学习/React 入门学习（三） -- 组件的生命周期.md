@@ -1,12 +1,4 @@
-# React 入门（三） -- 生命周期 LifeCycle
-
-![组件的生命周期](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)
-
-> 📢 大家好，我是小丞同学，这一篇是关于 React 的学习笔记，关于组件的生命周期
->
-> 📢 非常感谢你的阅读，不对的地方欢迎指正 🙏
->
-> 📢 愿你生活明朗，万物可爱
+#  生命周期 LifeCycle
 
 ## 引言
 

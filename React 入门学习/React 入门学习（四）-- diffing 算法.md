@@ -1,12 +1,4 @@
-# React入门学习（四）-- diffing 算法
-
-![diffing](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/diffing.png)
-
-> 📢 大家好，我是小丞同学，一名<font color=#2e86de>准大二的前端爱好者</font>
->
-> 📢 这篇文章将**尽力**说明白 **diff 算法**
->
-> 📢 <font color=#f368e0>**愿你忠于自己，热爱生活**</font>
+#  diffing 算法
 
 ## 前言
 

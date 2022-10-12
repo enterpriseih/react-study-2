@@ -1,10 +1,4 @@
-# React 从入门到入土（二）-- 面向组件编程
-
-![组件2](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/%E7%BB%84%E4%BB%B62.png)
-
-> 📢 大家好😪 ，我是小丞同学，最近在学习 React、小程序、阅读 JS 高程，以及整理 Node 的笔记，这是关于 React 的**第二篇**文章，也是我学习的第一个框架，内容如有错误，欢迎大家指正
->
-> 📢 <font color=#e84393>愿你生活明朗，万物可爱</font>
+# 面向组件编程
 
 ## 一、组件的使用
 

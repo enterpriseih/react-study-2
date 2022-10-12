@@ -1,14 +1,4 @@
-# React 入门学习（九）-- 消息订阅发布
-
-![react-消息订阅](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/react-%E6%B6%88%E6%81%AF%E8%AE%A2%E9%98%85.gif)
-
-> 📢 大家好，我是小丞同学，一名<font color=#2e86de>**大二的前端爱好者**</font>
->
-> 📢 这篇文章是学习 React 中 GitHub 搜索案例的学习笔记
->
-> 📢 非常感谢你的阅读，不对的地方欢迎指正 🙏
->
-> 📢 <font color=#f368e0>**愿你忠于自己，热爱生活**</font>
+#  消息订阅发布
 
 ## 引言
 

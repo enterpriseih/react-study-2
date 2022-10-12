@@ -1,12 +1,4 @@
-# React 从入门到入土（一）-- 基础知识以及 jsx 语法
-
-![第一篇](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/%E5%9F%BA%E7%A1%801.png)
-
-> 📢 大家好😪 ，我是小丞同学，最近在学习 React、小程序、阅读 JS 高程，以及整理 Node 的笔记，这是关于 React 的第一篇文章，也是我学习的第一个框架，内容如有错误，欢迎大家指正
->
-> 📢 <font color=#e84393>愿你生活明朗，万物可爱</font>
-
-先附上[React官网](https://zh-hans.reactjs.org/) ，有很多问题都要通过查询官方文档来解决，要学会查文档~
+# 基础知识以及 jsx 语法
 
 ## 一、React 简介
 

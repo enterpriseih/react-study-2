@@ -1,14 +1,4 @@
-# React 入门学习（六）-- TodoList 案例 
-
-![React-todolist](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/React-todolist.png)
-
-> 📢 大家好，我是小丞同学，一名<font color=#2e86de>**准大二的前端爱好者**</font>
->
-> 📢 这篇文章是学习 React 练习中 TodoList 案例的操作笔记
->
-> 📢 非常感谢你的阅读，不对的地方欢迎指正 🙏
->
-> 📢 <font color=#f368e0>**愿你忠于自己，热爱生活**</font>
+#  TodoList 案例
 
 ## 引言
 

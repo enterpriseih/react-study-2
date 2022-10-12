@@ -1,14 +1,4 @@
-# React 入门学习（八）-- GitHub 搜索案例
-
-![github搜索](https://ljcimg.oss-cn-beijing.aliyuncs.com/img/github%E6%90%9C%E7%B4%A2.gif)
-
-> 📢 大家好，我是小丞同学，一名<font color=#2e86de>**准大二的前端爱好者**</font>
->
-> 📢 这篇文章是学习 React 中 GitHub 搜索案例的学习笔记
->
-> 📢 非常感谢你的阅读，不对的地方欢迎指正 🙏
->
-> 📢 <font color=#f368e0>**愿你忠于自己，热爱生活**</font>
+#  GitHub 搜索案例
 
 ## 引言
 
